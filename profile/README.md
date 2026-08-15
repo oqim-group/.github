@@ -13,8 +13,4 @@ OQIM is a creator-marketing platform that connects brands with verified Instagra
 Campaigns are managed end to end: brands define briefs, budgets, and CPM rates; creators produce
 pre-approved content; and payouts are settled against independently verified view counts.
 
-<a href="https://oqim.app">
-  <img src="https://raw.githubusercontent.com/oqim-group/.github/main/profile/assets/hero.png" alt="A creator filming content" width="100%"/>
-</a>
-
 <sub>OQIM Group LLC</sub>
