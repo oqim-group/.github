@@ -7,6 +7,13 @@
   pre-approved content; and payouts are settled against independently verified view counts.
 </p>
 
+<p align="center">
+  <a href="https://oqim.app"><img src="https://img.shields.io/badge/oqim.app-visit-ffa8f2?style=flat-square&labelColor=1c1917" alt="Website"/></a>
+  <a href="https://help.oqim.app"><img src="https://img.shields.io/badge/help-docs-ac459d?style=flat-square&labelColor=1c1917" alt="Help center"/></a>
+  <a href="https://instagram.com/oqim.app"><img src="https://img.shields.io/badge/instagram-@oqim.app-aa94ff?style=flat-square&labelColor=1c1917" alt="Instagram"/></a>
+  <a href="mailto:info@oqim.app"><img src="https://img.shields.io/badge/email-info@oqim.app-9ef483?style=flat-square&labelColor=1c1917" alt="Email"/></a>
+</p>
+
 ---
 
 ### The platform
@@ -17,21 +24,6 @@
 | Review and approve content before publication | Produce Reels aligned with campaign briefs |
 | Monitor verified views in real time | Earn per 1,000 verified views |
 | Pay only for delivered results; unused budget is refunded | Work with brands through a single, structured workflow |
-
-### Company
-
-OQIM has raised $100K in angel investment at a $10M valuation and operates as a growing
-technology company in Uzbekistan, building the market's standard infrastructure for
-performance-based creator marketing.
-
-### Contact
-
-| | |
-| --- | --- |
-| Website | [oqim.app](https://oqim.app) |
-| Help center | [help.oqim.app](https://help.oqim.app) |
-| Instagram | [@oqim.app](https://instagram.com/oqim.app) |
-| Email | [info@oqim.app](mailto:info@oqim.app) |
 
 <p align="center">
   <sub>OQIM · Uzbekistan · Ko'rishlarga to'lang. Taxminlarga emas.</sub>
