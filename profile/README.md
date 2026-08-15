@@ -26,5 +26,5 @@
 | Pay only for delivered results; unused budget is refunded | Work with brands through a single, structured workflow |
 
 <p align="center">
-  <sub>OQIM · Uzbekistan · Ko'rishlarga to'lang. Taxminlarga emas.</sub>
+  <sub>OQIM Group LLC</sub>
 </p>
