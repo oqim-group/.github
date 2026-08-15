@@ -1,11 +1,5 @@
-<h2 align="center">OQIM</h2>
-<h4 align="center">Pay for views. Not estimates.</h4>
 
-<p align="center">
-  OQIM is a creator-marketing platform that connects brands with verified Instagram Reels creators.
-  Campaigns are managed end to end: brands define briefs, budgets, and CPM rates; creators produce
-  pre-approved content; and payouts are settled against independently verified view counts.
-</p>
+<h4 align="center">Pay for views. Not estimates.</h4>
 
 <p align="center">
   <a href="https://oqim.app"><img src="https://img.shields.io/badge/oqim.app-visit-ffa8f2?style=flat-square&labelColor=1c1917" alt="Website"/></a>
@@ -14,6 +8,11 @@
   <a href="mailto:info@oqim.app"><img src="https://img.shields.io/badge/email-info@oqim.app-9ef483?style=flat-square&labelColor=1c1917" alt="Email"/></a>
 </p>
 
+<p align="center">
+  OQIM is a creator-marketing platform that connects brands with verified Instagram Reels creators.
+  Campaigns are managed end to end: brands define briefs, budgets, and CPM rates; creators produce
+  pre-approved content; and payouts are settled against independently verified view counts.
+</p>
 
 <p align="center">
   <sub>OQIM Group LLC</sub>
