@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://oqim.app">
-    <img src="https://raw.githubusercontent.com/oqim-group/.github/main/profile/banner.svg" alt="OQIM — Pay for views. Not estimates." width="100%"/>
-  </a>
-</p>
-
 <h3 align="center">Pay for views. Not estimates.</h3>
 
 <p align="center">
